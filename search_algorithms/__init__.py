@@ -1,0 +1,1 @@
+"""Search algorithms practical package."""
