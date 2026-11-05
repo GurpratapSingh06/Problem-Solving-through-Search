@@ -174,9 +174,7 @@ Therefore, the minimum route cost is **280 km**, through Ahmednagar. BFS may ret
 
 This repository is based on the supplied Practical 2 document, **Problem Solving Through Search**. It includes the city-route example, the stated heuristic values, the six graph-search methods, and N-Queens backtracking. UCS is implemented as well because it is included in the practical's theory and algorithm sections.
 
-## Author
 
-Add your name, PRN, department, college, and academic year here before publishing.
 
 ## License
 
